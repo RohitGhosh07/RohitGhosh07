@@ -1,3 +1,5 @@
+![Nice Banner](https://s11.gifyu.com/images/S4FsA.gif)
+
 <h1 align="center">Hi , I'm Rohit Ghosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN-Stack+Web+Developer;React%20|%20UI%20|%20UX%20Enthusiast;JAVA%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
