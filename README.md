@@ -1,4 +1,4 @@
-![Nice Banner](https://i.ibb.co/9y2mc4f/new-linkedin-banner.png)
+![Nice Banner](https://i.ibb.co/98NsrNR/Purple-Modern-Best-Portfolio-Linked-In-Banner-1.png)
 
 <h1 align="center">Hi , I'm Rohit Ghosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
